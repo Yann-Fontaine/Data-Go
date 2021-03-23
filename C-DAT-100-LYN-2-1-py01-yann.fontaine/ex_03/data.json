@@ -1,0 +1,12 @@
+{
+    "transactions" : [
+        {
+            "value" : -42 ,
+            "category" : "transport"
+        },
+        {
+            "value" : 1234 ,
+            "category" : "salary"
+        }
+    ]
+}
